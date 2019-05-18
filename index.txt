@@ -1,1 +1,2 @@
 line 1: This is the first line in master
+line 2: this new line in master
